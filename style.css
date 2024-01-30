@@ -1,0 +1,122 @@
+body{ 
+    margin:0;
+    text-align: center;
+    font-family:  sans-serif;
+    color: #40514E; 
+    ;
+}
+
+h1{font-size: 90px;
+    margin: 50px auto 0 auto;
+font-family: "Sofia", sans-serif;
+color: #7FD04F;
+
+}  
+
+h2{font-family: sacramento, cursive;
+font-size: 2.5rem;
+color: #7FD04F;
+font-weight: normal;
+padding-bottom: 10px;
+}
+
+h3{color: #ffffff;}
+
+a{color: #ffffff;
+    font-family: Montserrat, sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;}
+    
+a:hover{color: #40514E;}
+    
+.copyright{color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px o;}
+
+
+
+.bottom-container{ background-color: #7FD04F;
+            padding: 50px 0 20px;}
+
+.footer-link i {
+   margin-right: 5px; 
+  }
+
+.footer-link i {
+    margin-right: 5px; 
+}
+
+            
+            
+        
+
+/*Navigation-bar*/
+
+.navbar{
+    overflow: hidden;
+    background-color: #7FD04F;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding-bottom: 0 0 4.5rem;
+}
+
+
+ .navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-right: 250px;
+    color: #1f4c73;
+}
+
+.nav-item{
+    padding: 0 8px;}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+    color: #ffffff;
+}
+
+
+.navbar-nav{padding-left:0px;}
+
+.Slides1 {
+    margin-top: 40px ;
+}
+
+.Slides {
+    margin-top: 40px ;}
+
+
+
+.btn {
+    background: #7FD04F;
+    background-image: -webkit-linear-gradient(top, #7FD04F);
+    background-image: -moz-linear-gradient(top, #7FD04F);
+    background-image: -ms-linear-gradient(top, #7FD04F);
+    background-image: -o-linear-gradient(top, #7FD04F);
+    background-image: linear-gradient(to bottom, #7FD04F);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #A7DC6E;
+    background-image: -webkit-linear-gradient(top, #A7DC6E, #A7DC6E);
+    background-image: -moz-linear-gradient(top, #A7DC6E, #A7DC6E);
+    background-image: -ms-linear-gradient(top, #A7DC6E, #A7DC6E);
+    background-image: -o-linear-gradient(top, #A7DC6E, #9ad9f9);
+    background-image: linear-gradient(to bottom, #A7DC6E, #A7DC6E);
+    color: #ffffff;
+    text-decoration: none;
+  }
+
+ 
